@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>NLP with Fewer Labels</title>
+        <link>https://nlp-with-fewer-labels.github.io</link>
+        <description>Theories and Methods of Natural Language Processing with Fewer Labels.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://nlp-with-fewer-labels.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Talks</title>
+            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Achievements/talks/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Achievements/talks/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Talks</title>
+            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/code/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/code/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Tutorials</title>
+            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/talks/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/talks/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Talks</title>
+            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/tutorial/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/tutorial/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Softwares</title>
+            <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Achievements/softwares/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Achievements/softwares/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Benchmarks</title>
+            <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/benchmark/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/benchmark/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Datasets</title>
+            <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Achievements/datasets/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Achievements/datasets/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Datasets</title>
+            <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/paper/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/paper/</guid>
+            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>2rd Post</title>
+            <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/News/20190929-post/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/News/20190929-post/</guid>
+            <description>&lt;p&gt;I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) &lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>1st Post</title>
+            <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/News/20190819-post/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/News/20190819-post/</guid>
+            <description>&lt;p&gt;I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) &lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>0th Post</title>
+            <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/News/20180929-post/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/News/20180929-post/</guid>
+            <description>&lt;p&gt;I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) &lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

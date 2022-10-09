@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nlp-with-fewer-labels.github.io/sitemap.xml
