@@ -7,36 +7,47 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://nlp-with-fewer-labels.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Datasets</title>
+            <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/dataset/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/dataset/</guid>
+            <description>&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;fewjoint&quot;&gt;FewJoint&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;&#x2F;strong&gt; [&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AtmaHou&#x2F;MetaDialog&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;AtmaHou&#x2F;MetaDialog&lt;&#x2F;a&gt;]&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Tags:&lt;&#x2F;strong&gt; Task-oriented Dialogue, NLU&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Intro:&lt;&#x2F;strong&gt; FewJoint is a novel FSL benchmark for joint multi-task learning, to promote FSL research of the NLP area. To reflect the real word NLP complexities beyond simple N-classification, FewJoint adopts a sophisticated and important NLP problem for the benchmark: Task-oriented Dialogue Language Understanding. Task-oriented Dialogue is a rising research area that develops dialogue systems to help users to achieve goals, such as booking tickets. Language Under-standing is a fundamental module of Task-oriented Dialogue that extracts semantic frames from user utterances. It contains two subtasks: Intent Detection and Slot Tagging. With the Slot Tagging task, FewJoint benchmark covers one of the most common structure prediction problems: sequence labeling. Besides, thanks to the natural dependency between Intent Detection and Slot Tagging, FewJoint  can embody the multi-task challenge of NLP problems. To conquer randomness and make an adequate evaluation, FewJoint includes 59 different dialogue domains from real industrial API, which is a considerable domain amount compared to all existing few-shot and dialogue data. &lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Papers</title>
+            <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/paper/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/paper/</guid>
+            <description>&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;!-- 根据时间倒序来排列，最新的放前面。 --&gt;
+&lt;!-- 格式与下面示例相同：标题加粗，作者全称全部列出来并斜体，后面是会议、年份，或期刊名称，最后面提供pdf、code、bib、poster等资源的链接。元素之间用英文句号分隔。 --&gt;
+&lt;!-- 以下为示例： --&gt;
+&lt;!-- - **Inducing Positive Perspectives with Text Reframing**. *Caleb Ziems, Minzhi Li, Anthony Zhang, Diyi Yang*. ACL 2022. [[pdf](https:&#x2F;&#x2F;aclanthology.org&#x2F;2022.acl-long.257.pdf)][[code](https:&#x2F;&#x2F;github.com&#x2F;SALT-NLP&#x2F;positive-frames)][[bib](https:&#x2F;&#x2F;aclanthology.org&#x2F;2022.acl-long.257.bib)][[poster](https:&#x2F;&#x2F;www.baidu.com&#x2F;)] --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sequence-to-sequence data augmentation for dialogue language understanding&lt;&#x2F;strong&gt;. &lt;em&gt;Hou Yutai,  Liu Yijia, Che Wanxiang, Liu Ting&lt;&#x2F;em&gt;. COLING 2018. [&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;aclanthology.org&#x2F;C18-1105.pdf&quot;&gt;pdf&lt;&#x2F;a&gt;][&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AtmaHou&#x2F;Seq2SeqDataAugmentationForLU&quot;&gt;code&lt;&#x2F;a&gt;][&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;aclanthology.org&#x2F;C18-1105.bib&quot;&gt;bib&lt;&#x2F;a&gt;]&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+        <item>
+            <title>Tutorials</title>
+            <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/Resources/talks/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/Resources/talks/</guid>
+            <description>&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;zero-and-few-shot-nlp-with-pretrained-language-models&quot;&gt;Zero- and Few-Shot NLP with Pretrained Language Models&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Link:&lt;&#x2F;strong&gt; [&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;allenai&#x2F;acl2022-zerofewshot-tutorial&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;allenai&#x2F;acl2022-zerofewshot-tutorial&lt;&#x2F;a&gt;]&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Intro:&lt;&#x2F;strong&gt; The ability to efficiently learn from little-to-no data is critical to applying NLP to tasks where data collection is costly or otherwise difficult. This is a challenging setting both academically and practically---particularly because training neutral models typically require large amount of labeled data. More recently, advances in pretraining on unlabelled data have brought up the potential of better zero-shot or few-shot learning (Devlin et al., 2019; Brown et al., 2020). In particular, over the past year, a great deal of research has been conducted to better learn from limited data using large-scale language models. In this tutorial, we aim at bringing interested NLP researchers up to speed about the recent and ongoing techniques for zero- and few-shot learning with pretrained language models. Additionally, our goal is to reveal new research opportunities to the audience, which will hopefully bring us closer to address existing challenges in this domain.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Talks</title>
             <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
             <link>https://nlp-with-fewer-labels.github.io/Achievements/talks/</link>
             <guid>https://nlp-with-fewer-labels.github.io/Achievements/talks/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Talks</title>
-            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Resources/code/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Resources/code/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Tutorials</title>
-            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Resources/talks/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Resources/talks/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Talks</title>
-            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Resources/tutorial/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Resources/tutorial/</guid>
             <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
 </description>
         </item>
@@ -49,26 +60,10 @@
 </description>
         </item>
         <item>
-            <title>Benchmarks</title>
-            <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Resources/benchmark/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Resources/benchmark/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
             <title>Datasets</title>
             <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
             <link>https://nlp-with-fewer-labels.github.io/Achievements/datasets/</link>
             <guid>https://nlp-with-fewer-labels.github.io/Achievements/datasets/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Datasets</title>
-            <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Resources/paper/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Resources/paper/</guid>
             <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
 </description>
         </item>
