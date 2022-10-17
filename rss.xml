@@ -7,31 +7,7 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://nlp-with-fewer-labels.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
-        <item>
-            <title>Talks</title>
-            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Achievements/talks/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Achievements/talks/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Softwares</title>
-            <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Achievements/softwares/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Achievements/softwares/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Datasets</title>
-            <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/Achievements/datasets/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/Achievements/datasets/</guid>
-            <description>&lt;p&gt;abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract&lt;&#x2F;p&gt;
-</description>
-        </item>
+        <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
         <item>
             <title>2rd Post</title>
             <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
