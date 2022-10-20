@@ -7,29 +7,14 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://nlp-with-fewer-labels.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
         <item>
-            <title>2rd Post</title>
-            <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/News/20190929-post/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/News/20190929-post/</guid>
-            <description>&lt;p&gt;I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) &lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>1st Post</title>
-            <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/News/20190819-post/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/News/20190819-post/</guid>
-            <description>&lt;p&gt;I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) &lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>0th Post</title>
-            <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-            <link>https://nlp-with-fewer-labels.github.io/News/20180929-post/</link>
-            <guid>https://nlp-with-fewer-labels.github.io/News/20180929-post/</guid>
-            <description>&lt;p&gt;I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) I am the abstract :) &lt;&#x2F;p&gt;
+            <title>the National Natural Science Funds Project Approval Notice</title>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+            <link>https://nlp-with-fewer-labels.github.io/News/20220907/</link>
+            <guid>https://nlp-with-fewer-labels.github.io/News/20220907/</guid>
+            <description>&lt;p&gt;According to the &amp;quot;Regulation on the National Natural Science Funds&amp;quot;, relevant project management regulations, and expert review opinions, the National Natural Science Foundation of China (NSFC) has decided to fund the project you applied for. &lt;&#x2F;p&gt;
+&lt;p&gt;Grant: &lt;strong&gt;62236004&lt;&#x2F;strong&gt;, project name: &lt;strong&gt;Theories and Methods of Natural Language Processing with Fewer Labels&lt;&#x2F;strong&gt;, direct cost: 2.83 million yuan, project period: 2023.1.1 -- 2027.12.31.&lt;&#x2F;p&gt;
 </description>
         </item>
     </channel>
