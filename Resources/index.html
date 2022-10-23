@@ -191,6 +191,12 @@ NLP with Fewer Labels | Related Resources
 <li>
 <p><strong>Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding</strong>. <em>Yutai Hou, Yijia Liu, Wanxiang Che, Ting Liu</em>. COLING 2018. [<a rel="noopener nofollow noreferrer" target="_blank" href="https://aclanthology.org/C18-1105.pdf">pdf</a>][<a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/AtmaHou/Seq2SeqDataAugmentationForLU">code</a>][<a rel="noopener nofollow noreferrer" target="_blank" href="https://aclanthology.org/C18-1105.bib">bib</a>]</p>
 </li>
+<li>
+<p><strong>Prompt Tuning for Discriminative Pre-trained Language Models</strong>. <em>Yuan Yao, Bowen Dong, Ao Zhang, Zhengyan Zhang, Ruobing Xie, Zhiyuan Liu, Leyu Lin, Maosong Sun, Jianyong Wang</em>. Findings of ACL 2022. [<a rel="noopener nofollow noreferrer" target="_blank" href="https://aclanthology.org/2022.findings-acl.273.pdf">pdf</a>] [<a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/thunlp/DPT">code</a>] </p>
+</li>
+<li>
+<p><strong>Meta-Information Guided Meta-Learning for Few-Shot Relation Classification</strong>. <em>Bowen Dong, Yuan Yao, Ruobing Xie, Tianyu Gao, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun</em>. COLING 2020. [<a rel="noopener nofollow noreferrer" target="_blank" href="https://aclanthology.org/2020.coling-main.140.pdf">pdf</a>] [<a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/thunlp/MIML">code</a>] </p>
+</li>
 </ul>
 <h3 id="other-links">Other Links</h3>
 <h4 id="awesome-meta-learning">Awesome Meta Learning</h4>
@@ -241,6 +247,28 @@ There benchmarks are included to assess different levels of generalization fo NE
 <p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/thunlp/FewRel">https://github.com/thunlp/FewRel</a></p>
 <p><strong>Tags:</strong> Relation Extraction</p>
 <p><strong>Intro:</strong> FewRel is a large-scale few-shot relation extraction dataset, which contains more than one hundred relations and tens of thousands of annotated instances cross different domains. The benchmark is established by N way K shot sentence-level classification. The second edition of the dataset, FewRel 2.0,  adds domain adaptation (DA) and none-of-the-above (NOTA) detection challenges to evaluate cross-domain generalization more comprehensively.</p>
+<br />
+<h4 id="fewshotwoz">FEWSHOTWOZ</h4>
+<p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/pengbaolin/SC-GPT">https://github.com/pengbaolin/SC-GPT</a></p>
+<p><strong>Intro:</strong> FEWSHOTWOZ is a benchmark that simulates the few-shot adaptation setting in task-oriented dialog systems. The benchmark consists of dialog utterances from 7 domains, including Restaurant, Hotel, Laptop, TV, Attraction, Taxi, and Train. For each domain, FEWSHOTWOZ provides less than 50 labeled utterances for fine-tuning. Besides, FEWSHOTWOZ has only 8.82% overlap among different from other domains. The NLG task defined on FEWSHOTWOZ requires the models to learn to generalize over new compositions of intents.</p>
+<br />
+<h4 id="fewglue">FewGLUE</h4>
+<p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/timoschick/fewglue">https://github.com/timoschick/fewglue</a></p>
+<p><strong>Intro:</strong> FewGLUE is a few-shot natural language understanding benchmark. The benchmark is based on SuperGLUE, consisting of a random selection of 32 training examples from SuperGLUE training sets using a fixed random seed. The benchmark additionally creates sets of up to 20,000 unlabeled examples for each SuperGLUE task, by removing all labels from the original training sets.</p>
+<br />
+<h4 id="fewclue">FewCLUE</h4>
+<p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/CLUEbenchmark/FewCLUE">https://github.com/CLUEbenchmark/FewCLUE</a></p>
+<p><strong>Intro:</strong> FewCLUE is a comprehensive small sample evaluation benchmark in Chinese. The benchmark consists of a
+collection of nine different natural language understanding tasks, including single-sentence classification tasks, sentence-pair classification tasks, and machine reading comprehension tasks. The benchmark adopts multiple sampling strategies to generate samples from original datasets to reflect real scenarios.</p>
+<br />
+<h4 id="raft">RAFT</h4>
+<p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://raft.elicit.org/">https://raft.elicit.org/</a></p>
+<p><strong>Intro:</strong> RAFT is a few-shot classification benchmark that focuses on naturally occurring tasks and uses an evaluation setup that mirrors deployment. The benchmark tests language models' ability across multiple domains, including medical data, tweets, customer interaction, etc. Classification tasks on RAFT are economically valuable. The benchmark consists of 11 datasets and the training set for each task has 50 examples and a larger unlabeled test set.</p>
+<br />
+<h4 id="clues">CLUES</h4>
+<p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/microsoft/CLUES">https://github.com/microsoft/CLUES</a></p>
+<p><strong>Intro:</strong> CLUES is a benchmark for evaluating the few-shot learning capabilities of NLU models. Tasks on CLUES have 3 distinct categories, classification (SST-2, MNLI), sequence labeling (SQuADv2, ReCoRD), and machine reading comprehension (CoNLL03, WikiANN). The benchmark does not include a separate validation set for any task to establish a true few-shot learning setting and it randomly samples labeled examples from related datasets.</p>
+<br />
 <h1 id="talks">Talks</h1>
 <h4 id="zero-and-few-shot-nlp-with-pretrained-language-models">Zero- and Few-Shot NLP with Pretrained Language Models</h4>
 <p><strong>Link:</strong> <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/allenai/acl2022-zerofewshot-tutorial">https://github.com/allenai/acl2022-zerofewshot-tutorial</a></p>
